@@ -28,7 +28,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-groq_api_key = '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'
+groq_api_key = ''
 
 # Neo4j database connection function
 def connect_to_neo4j(uri, user, password):

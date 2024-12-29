@@ -191,7 +191,7 @@ def main():
     
     neo4j_uri = "neo4j+s://08604d40.databases.neo4j.io"
     neo4j_user = "neo4j"
-    neo4j_password = "TKs7thScxvjWy62MdpKqNkTQw97-gD5V6ENJt7n4DQo"
+    neo4j_password = " "
 
     first_query = st.text_input("Enter your first query (e.g., 'show me all the papers related to machine learning in the last 5 year'):")
     if first_query:
